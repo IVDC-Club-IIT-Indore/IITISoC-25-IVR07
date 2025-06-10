@@ -12,6 +12,6 @@ _**Team Member 4**:  [@user4](https://github.com/user4)_
 
 Mentors
 
-_**Mentor 1**:  [@mentor1](https://github.com/mentor1)_
+_**Nambiar Anand Sreenivasan**:  [@NambiarAnand](https://github.com/NambiarAnand)_
 
 _**Mentor 2**:  [@mentor2](https://github.com/mentor2)_
