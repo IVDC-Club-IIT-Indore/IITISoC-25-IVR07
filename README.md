@@ -4,7 +4,7 @@ Team Members
 
 _**Team Member 1**:  [@user1](https://github.com/user1)_
 
-_**Manish Kumar**:  [@Manish](https://github.com/Manish-git-tech)_
+_**Manish Kumar**:  [@Manish](https://github.com/Manish-Kumar-repositories)_
 
 _**Team Member 3**:  [@user3](https://github.com/user3)_
 
