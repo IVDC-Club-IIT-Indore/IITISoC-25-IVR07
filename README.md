@@ -1,10 +1,10 @@
-# IITISoC-25-IVR0xx PS Title
+# IITISoC-25-IVR007 PS Title
 
 Team Members
 
 _**Team Member 1**:  [@Shubh](https://github.com/Shubhragh)_
 
-_**Manish Kumar**:  [@Manish](https://github.com/Manish-Kumar)_
+_**Manish Kumar**:  [@Manish](https://github.com/Manish-git-tech)
 
 _**Team Member 3**:  [@user3](https://github.com/user3)_
 
