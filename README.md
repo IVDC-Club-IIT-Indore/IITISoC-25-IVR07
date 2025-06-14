@@ -1,6 +1,6 @@
 # IITISoC-25-IVR007 Dynamic Obstacle Detection and Tracking for Autonomous Vehicles
 
-Team Members
+**Team Members**
 
 _**Shubh Raghuwanshi**:  [@Shubh](https://github.com/Shubhragh)_
 
@@ -10,7 +10,7 @@ _**Neh Modi**:  [@Neh](https://github.com/Nehmodi2005)_
 
 _**Chandrashekhar**:  [@Chandrasekhar](https://github.com/ChandrashekarRVN)_
 
-Mentors
+**Mentors**
 
 _**Nambiar Anand Sreenivasan**:  [@NambiarAnand](https://github.com/NambiarAnand)_
 
