@@ -4,7 +4,7 @@
 
 _**Shubh Raghuwanshi**:  [@Shubh](https://github.com/Shubhragh)_
 
-_**Manish Kumar**:  [@Manish](https://github.com/Manish-git-tech)
+**Manish Kumar**:  [@Manish](https://github.com/Manish-git-tech)
 
 _**Neh Modi**:  [@Neh](https://github.com/Nehmodi2005)_
 
