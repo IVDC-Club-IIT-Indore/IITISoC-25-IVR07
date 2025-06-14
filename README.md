@@ -2,11 +2,11 @@
 
 Team Members
 
-_**Team Member 1**:  [@Shubh](https://github.com/Shubhragh)_
+_**Shubh Raghuwanshi**:  [@Shubh](https://github.com/Shubhragh)_
 
 _**Manish Kumar**:  [@Manish](https://github.com/Manish-git-tech)
 
-_**Team Member 3**:  [@user3](https://github.com/user3)_
+_**Neh Modi **:  [@Neh](https://github.com/Nehmodi2005)_
 
 _**Team Member 4**:  [@user4](https://github.com/user4)_
 
