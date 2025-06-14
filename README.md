@@ -1,4 +1,4 @@
-# IITISoC-25-IVR007 PS Title
+# IITISoC-25-IVR007 Dynamic Obstacle Detection and Tracking for Autonomous Vehicles
 
 Team Members
 
