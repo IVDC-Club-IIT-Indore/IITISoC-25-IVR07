@@ -2,7 +2,7 @@
 
 Team Members
 
-_**Team Member 1**:  [@Shubh](https://github.com/user1)_
+_**Team Member 1**:  [@Shubh](https://github.com/Shubhragh)_
 
 _**Manish Kumar**:  [@Manish](https://github.com/Manish-Kumar-repositories)_
 
