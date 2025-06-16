@@ -2,16 +2,16 @@
 
 **Team Members**
 
-**->Shubh Raghuwanshi**:  [@Shubh](https://github.com/Shubhragh)
+_**Shubh Raghuwanshi**:  [@Shubh](https://github.com/Shubhragh)_
 
-**->Manish Kumar**:  [@Manish](https://github.com/Manish-git-tech)
+_**Manish Kumar**:  [@Manish](https://github.com/Manish-git-tech)_
 
-**->Neh Modi**:  [@Neh](https://github.com/Nehmodi2005)
+_**Neh Modi**:  [@Neh](https://github.com/Nehmodi2005)_
 
-**->Chandrashekhar**:  [@Chandrasekhar](https://github.com/ChandrashekarRVN)
+_**Chandrashekhar**:  [@Chandrasekhar](https://github.com/ChandrashekarRVN)_
 
 **Mentors**
 
-**->Nambiar Anand Sreenivasan**:  [@NambiarAnand](https://github.com/NambiarAnand)
+_**Nambiar Anand Sreenivasan**:  [@NambiarAnand](https://github.com/NambiarAnand)_
 
-**->Mentor 2**:  [@mentor2](https://github.com/mentor2)
+_**Mentor 2**:  [@mentor2](https://github.com/mentor2)_
