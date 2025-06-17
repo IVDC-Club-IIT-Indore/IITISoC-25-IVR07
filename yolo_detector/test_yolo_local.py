@@ -5,7 +5,7 @@ import cv2
 model = YOLO("yolov8n.pt")  # or yolov8s.pt or any other variant
 
 # Load your image
-image_path = "testimage.jpg"  # Or full path like "/home/yourname/path/test.jpg"
+image_path = f"image_1.jpg"  # Or full path like "/home/yourname/path/test.jpg"
 img = cv2.imread(image_path)
 
 # Run detection

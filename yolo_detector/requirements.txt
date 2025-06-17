@@ -1,3 +1,6 @@
 ultralytics>=8.0.0
 opencv-python
 numpy<2.0  # To avoid NumPy 2.x incompatibility issues with some ROS/Boost packages
+rosbags
+rosbags-image
+bagpy
