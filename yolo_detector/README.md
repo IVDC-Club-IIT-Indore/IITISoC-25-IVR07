@@ -87,7 +87,7 @@ This script uses Ultralytics' default test images (e.g., `bus.jpg`, `zidane.jpg`
 
 ## 👨‍💻 Contributor
 
-* **Name:** \[Your Name]
+* **Name:** \[]
 * **Role:** AI/ML Module – IVR07, IITISoC 2025
 * **Contribution:** YOLOv8 + ROS 2 object detection integration
 
