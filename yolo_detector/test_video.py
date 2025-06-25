@@ -4,7 +4,8 @@ from ultralytics import YOLO
 model = YOLO("yolov8n.pt")
 
 # Path to your extracted video
-video_path = f"video\output.avi" 
+video_path = "video/output.avi"
+
 
 # Run object detection on the video and save the results
 results = model.predict(

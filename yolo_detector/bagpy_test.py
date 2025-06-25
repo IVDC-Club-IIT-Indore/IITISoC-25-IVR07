@@ -11,4 +11,4 @@ def list_rosbag_topics(bag_path):
             print("-" * 40)
 
 # Replace 'your_file.bag' with your actual bag file path
-list_rosbag_topics('..\rosbags\single-object.bag') # change this to your bag file path (discord wale link se download kar lena)
+list_rosbag_topics('../home/shubh/Desktop/multi-object.bag') # change this to your bag file path (discord wale link se download kar lena)

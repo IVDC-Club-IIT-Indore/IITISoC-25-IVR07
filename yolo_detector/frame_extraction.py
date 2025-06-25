@@ -5,7 +5,8 @@ import os
 from pathlib import Path
 
 
-bag_path = 'D:\\rosbags\single-object.bag'
+bag_path = '/home/shubh/Desktop/multi-objects.bag'
+
 output_dir = 'output/rgb_frames'
 image_topic = '/camera/color/image_raw'  # Adjust as per your bag file
 
