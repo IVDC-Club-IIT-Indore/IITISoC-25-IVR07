@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "/home/shubh/IVR07/IITISoC-25-IVR07/.venv/bin/python3",
+  "python.analysis.extraPaths": [
+    "/opt/ros/humble/lib/python3.10.12/site-packages"
+  ],
+  "python.autoComplete.extraPaths": [
+    "/opt/ros/humble/lib/python3.10.12/site-packages"
+  ]
+}
+
+

@@ -13,7 +13,13 @@ frame = cv2.imread(os.path.join(frame_dir, images[0]))
 height, width, _ = frame.shape
 
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
-video = cv2.VideoWriter(output_video, fourcc, fps, (width, height))
+video = cv2.VideoWriter(
+    output_video,
+    cv2.CAP_FFMPEG,  # force FFMPEG backend
+    fourcc,
+    fps,
+    (width, height)
+)
 
 for image in images:
     video.write(cv2.imread(os.path.join(frame_dir, image)))
