@@ -92,7 +92,7 @@ rviz2
 # Add MarkerArray: /yolov8/tracking_markers
 ```
 
-**📺 Visualization Tutorial**: [Understanding RViz 3D Tracking Output](https://youtube.com/your-channel)
+**📺 Visualization Tutorial**: [RViz 3D Tracking Output](https://youtube.com/your-channel)
 
 ## Quick Verification
 ```bash
