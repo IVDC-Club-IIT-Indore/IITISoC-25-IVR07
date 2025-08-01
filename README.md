@@ -33,7 +33,7 @@ sudo apt install ros-humble-realsense2-*
 pip install ultralytics opencv-python numpy torch scipy deep-sort-realtime
 ```
 
-**📺 Watch Installation Video**: [YOLOv8 RealSense Setup Tutorial](https://youtube.com/your-channel)
+**📺 Watch Installation Video**: [YOLOv8 RealSense Setup Tutorial](https://youtu.be/9p9fBWrVkEk?si=C9yJdp62l3zSlSTT)
 
 ### 2. Build Package
 ```bash
@@ -51,7 +51,7 @@ source install/setup.bash
 
 ### Option 1: Live Intel RealSense D455
 
-**📺 Live Camera Demo**: [Real-time 3D Tracking with RealSense](https://youtube.com/your-channel)
+**📺 Live Camera Demo**: [Real-time 3D Tracking with RealSense](https://youtu.be/g3eS8J1P-QY?si=uusEopx49uOvkrpR)
 
 ```bash
 # Terminal 1: Start camera
@@ -65,7 +65,7 @@ ros2 launch yolov8_realsense yolov8_tracking.launch.py
 
 ### Option 2: Rosbag Playback
 
-**📺 Rosbag Processing Demo**: [3D Tracking from Recorded Data](https://youtube.com/your-channel)
+**📺 Rosbag Processing Demo**: [3D Tracking from Recorded Data](https://youtu.be/g3eS8J1P-QY?si=uusEopx49uOvkrpR)
 
 ```bash
 # Terminal 1: Play rosbag
@@ -92,7 +92,7 @@ rviz2
 # Add MarkerArray: /yolov8/tracking_markers
 ```
 
-**📺 Visualization Tutorial**: [RViz 3D Tracking Output](https://youtube.com/your-channel)
+**📺 Visualization Tutorial**: [RViz 3D Tracking Output](https://www.youtube.com/watch?v=x__hBLPtahE)
 
 ## Quick Verification
 ```bash
