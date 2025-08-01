@@ -18,7 +18,7 @@ _**Mentor 2**:  [@mentor2](https://github.com/mentor2)_
 
 # INSTRUCTIONS FOR RUNNING THE yolov8_realsense 
 
-# YOLOv8 + FairMOT 3D Tracking - Installation & Running Guide
+# YOLOv8 3D Tracking - Installation & Running Guide
 
 ## Installation
 
@@ -105,10 +105,3 @@ ros2 topic list | grep yolov8
 ```
 
 **📺 Complete System Demo**: [End-to-End Multi-Object Tracking](https://youtube.com/your-channel)
-
-## Troubleshooting
-- **Build errors**: `rm -rf build/ install/` then rebuild
-- **Camera not detected**: Check USB 3.0 connection
-- **Low performance**: Use `image_scale:=0.3` parameter
-
-**📺 Troubleshooting Guide**: [Common Issues & Solutions](https://youtube.com/your-channel)
