@@ -1,0 +1,13 @@
+yolov8_detector:
+  ros__parameters:
+    model_path: "yolov8n.pt"
+    confidence_threshold: 0.5
+    iou_threshold: 0.45
+    max_detections: 100
+    input_topic: "/camera/camera/color/image_raw"
+    camera_info_topic: "/camera/camera/color/camera_info"
+
+yolov8_tracker:
+  ros__parameters:
+    max_disappeared: 10
+    max_distance: 100.0

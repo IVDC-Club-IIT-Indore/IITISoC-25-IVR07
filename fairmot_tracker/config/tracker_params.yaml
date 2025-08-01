@@ -1,0 +1,30 @@
+tracker_node:
+  ros__parameters:
+    # Camera topics
+    color_image_topic: "/camera/camera/color/image_raw"
+    depth_image_topic: "/camera/camera/depth/image_rect_raw"
+    camera_info_topic: "/camera/camera/color/camera_info"
+    
+    # Tracker parameters
+    frame_rate: 30.0
+    confidence_threshold: 0.3
+    nms_threshold: 0.4
+    max_time_lost: 30
+    track_buffer: 30
+    
+    # Detection parameters
+    min_contour_area: 500
+    max_contour_area: 50000
+    use_yolo: true
+    
+    # Path tracing parameters
+    max_path_length: 100
+    path_update_interval: 5  # frames
+    show_path_trails: true
+    trail_length: 20
+    
+    # Visualization parameters
+    publish_debug_image: true
+    publish_path_markers: true
+    marker_lifetime: 2.0
+
