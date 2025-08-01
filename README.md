@@ -104,4 +104,4 @@ ros2 node list
 ros2 topic list | grep yolov8
 ```
 
-**📺 Complete System Demo**: [End-to-End Multi-Object Tracking](https://youtube.com/your-channel)
+**📺 Complete System Demo**: [Multi-Object Tracking](https://youtube.com/your-channel)
